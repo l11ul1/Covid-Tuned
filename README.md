@@ -1,2 +1,3 @@
 # Covid-Tuned
-![Alt text](/img.jpg?raw=true "Optional Title")
+![Alt text](https://raw.githubusercontent.com/l11ul1/Covid-Tuned/main/Screenshot%20from%202021-03-07%2014-28-51.png "Optional title")
+
