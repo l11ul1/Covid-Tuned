@@ -2,8 +2,13 @@
 ## About:
 Covod Tuned is an app which helps not only Senior people but overall everyone to see some statistics across Canada, Get Information about Vaccination and, additionally, request some help from people nearby.
 
-## public url:
+## Public url:
 https://www.figma.com/file/ZIg3U4u0zT2GpCQjzQYqF3/Assignment_1-Copy?node-id=0%3A1
+
+## Desirable Funtionalities:
+* Help Senior people 
+* Get a Vaccination Appointment 
+* Automatically get local stats about COVID 19 in your region
 
 ## Screen Shots:
 ![Alt text](https://raw.githubusercontent.com/l11ul1/Covid-Tuned/main/Screenshot%20from%202021-03-07%2014-28-51.png "Optional title")
